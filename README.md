@@ -13,17 +13,17 @@ I am an enthusiastic developer proficient in various programming languages, incl
   <img src="https://github-readme-stats.vercel.app/api?username=k-srivastava&theme=nightowl&show_icons=true" alt="GitHub Statistics">
 </p>
 
-## 🚀 What You Will Discover Here
+<h2>🚀 What You Will Discover Here</h2>
 
 - **[Python Projects](https://github.com/k-srivastava/Forge):** Explore my Python projects, including wrappers, CRUD apps, and more.
 - **[Java Game Engine](https://github.com/k-srivastava/Maple):** Peruse my Java-based game engine, showcasing my proficiency in engine development.
 - **Rust Renderers:** Dive into my rendering projects in Rust, highlighting my capabilities in graphics and "low"-level programming.
 - **[C# Language Development](https://github.com/k-srivastava/Monkey-CS):** Investigate my ongoing work on a programming language in C#, illustrating my expertise in compiler design and development.
 
-## 💡 Areas of Interest
+<h2>💡 Areas of Interest</h2>
 
 I possess a profound interest in niche areas such as high-performance systems, compiler design, and operating system development. Feel free to explore my repositories to discover projects aligned with these specialised interests.
 
-## 📫 Contact
+<h2>📫 Contact</h2>
 
 If you have inquiries, suggestions, or are interested in collaborating on a project, please do not hesitate to reach out. You can contact me via my GitHub profile or through email at [srivastavak1223@gmail.com](mailto:srivastavak1223@gmail.com).
